@@ -1,5 +1,7 @@
 # ML_Model-Deployment
 
+Created a Machine Learning model, serialized it. Created a Backend app using Flask API. Created a Frontend app using Streamlit. Deployed the frontend and backend in Docker space in Hugging Face. We can use the streamlit UI to give input and get predictions directly on the webpage.
+
 ## Business Context
 A sales forecast predicts future sales revenue based on historical data, industry trends, and the status of the current sales pipeline. Businesses use the sales forecast to estimate weekly, monthly, quarterly, and annual sales totals. A company needs to make an accurate sales forecast as it adds value across an organization and helps the different verticals to chalk out their future course of action.
 
